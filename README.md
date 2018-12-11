@@ -1,4 +1,4 @@
-# lunchpool_web_onboarding
+## Curious in becoming part of the team?
 
 <hr/>
 
@@ -6,8 +6,20 @@
 
 <hr/>
 
-## Curious in becoming part of the team?
-Included is the base for the lunchpool project.
 
-## Tools we use at lunchpool,
+## Tools we use at lunchpool:
 React, ReactRouter(nestedRouting), MaterialUI.
+
+## Install Instructions:
+```
+git clone https://github.com/Lunchpool/lunchpool_web_onboarding.git;
+cd lunchpool_web_onboarding;
+npm install;
+npm start
+```
+
+## Additional Instruction if interested in building a different application:
+```
+npm i rename-cli;
+rename lunchpool_web_onboarding your_name_here
+```
