@@ -1,4 +1,4 @@
-## Curious in becoming part of the team?
+## Curious in becoming part of the team? (React with React-Router)
 
 <hr/>
 
@@ -7,8 +7,10 @@
 <hr/>
 
 
-## Tools we use at lunchpool:
-React, ReactRouter(nestedRouting), MaterialUI.
+## Tools we use on the web app at lunchpool:
+1) React,
+2) ReactRouter(nestedRouting),
+3) MaterialUI.
 
 ## Install Instructions:
 ```
@@ -22,4 +24,9 @@ npm start
 ```
 npm i rename-cli;
 rename lunchpool_web_onboarding your_name_here
+```
+
+## Commands used, if interested:
+```
+npm uninstall -g create-react-app; npm install -g create-react-app; create-react-app react; cd react;
 ```
